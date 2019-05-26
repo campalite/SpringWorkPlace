@@ -1,0 +1,4 @@
+I choosed start.spring.io for generate this project.
+Spring Boot version 2.1.5
+#dependencies
+Web, Lombok, JPA, H2 and Actuator.
